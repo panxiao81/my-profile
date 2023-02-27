@@ -2,7 +2,7 @@ import Head from "next/head";
 import { Inter } from "next/font/google";
 import text from "../i18n/i18n";
 import { useRouter } from "next/router";
-import Section from "../components/Section";
+import Section from "../components/section";
 
 const inter = Inter({ subsets: ["latin"] });
 
